@@ -9,6 +9,7 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
